@@ -1,0 +1,14 @@
+*.class
+
+# Package Files #
+*.log
+*.jar
+*.war
+*.ear
+*.iml
+target/
+dist/
+*.tmp
+.idea
+.eclipse
+dependency-reduced-pom.xml
